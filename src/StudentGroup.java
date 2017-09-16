@@ -36,6 +36,7 @@ public class StudentGroup implements StudentArrayOperation {
 		{
 			this.students[i]=students[i];
 	}
+}
 
 	@Override
 	public Student getStudent(int index) {
